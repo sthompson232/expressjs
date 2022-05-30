@@ -1,0 +1,21 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "Test express API for learning",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": "https://github.com/sthompson232/expressjs.git",
+  "author": "Sam Thompson <samthompson292@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "moment": "^2.29.3",
+    "uuid": "^8.3.2"
+  }
+}
